@@ -1,6 +1,6 @@
-# musicinfo
+# First flutter App
 
-A new Flutter music application for searching artists.
+A new Flutter application with some code.
 
 ## Getting Started
 
